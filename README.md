@@ -1,5 +1,4 @@
-### Hi, Welcome 👋
-I'm Abie Mei Rizky
+### Hi, Welcome! I'm Abie Mei Rizky
 <!--
 **abiemrzky/abiemrzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
