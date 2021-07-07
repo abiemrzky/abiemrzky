@@ -1,9 +1,9 @@
 ### Hi, Welcome! You can see my name, on your left monitor.
 ---
-I'm a FrontEnd Developer. \n
-Sometime i like to create a design, vector design.
-I like to explore about editing photo or video, editing.
-All of thing's i do its so fun!
+I'm a FrontEnd Developer. <br>
+Sometime i like to create a design, vector design.<br>
+I like to explore about editing photo or video, editing.<br>
+All of thing's i do its so fun!<br>
 
 Want to know more about me ? Here my Social Media: 
 - twitter   : [abiemrzky]([twitter])
