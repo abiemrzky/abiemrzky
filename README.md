@@ -1,10 +1,11 @@
 ### Hi, Welcome! You can see my name, on your left monitor.
 ---
-I'm now working at Easy Accounting System as FrontEnd Developer.
+I'm a FrontEnd Developer.
+Sometime i like to create a design, vector design.
+I like to explore about editing photo or video, editing.
+All of thing's i do its so fun!
 
-I like working with HTML, CSS, & JavaScript. I like ReactJS too.
-
-Here my Social Media: 
+Want to know more about me ? Here my Social Media: 
 - twitter   : [abiemrzky]([twitter])
 - instagram : [abie.mrzky]([instagram])
 - linkedin  : [Abie Mei Rizky]([linkedin])
@@ -12,6 +13,7 @@ Here my Social Media:
 [twitter]: https://twitter.com/abiemrzky
 [instagram]: https://www.instagram.com/abie.mrzky/
 [linkedin]: https://www.linkedin.com/in/abie-mei-rizky-189572166
+
 <!--
 **abiemrzky/abiemrzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
