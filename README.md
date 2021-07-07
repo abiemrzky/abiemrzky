@@ -6,13 +6,13 @@ I like to explore about editing photo or video, editing.<br>
 All of thing's i do its so fun!<br>
 
 Want to know more about me ? Here my Social Media: 
-- twitter   : [abiemrzky]([twitter])
-- instagram : [abie.mrzky]([instagram])
-- linkedin  : [Abie Mei Rizky]([linkedin])
+- twitter   : [abiemrzky](https://twitter.com/abiemrzky)
+- instagram : [abie.mrzky](https://www.instagram.com/abie.mrzky/)
+- linkedin  : [Abie Mei Rizky](https://www.instagram.com/abie.mrzky/)
 
 [twitter]: https://twitter.com/abiemrzky
 [instagram]: https://www.instagram.com/abie.mrzky/
-[linkedin]: https://www.linkedin.com/in/abie-mei-rizky-189572166
+[linkedin]: https://www.instagram.com/abie.mrzky/
 
 <!--
 **abiemrzky/abiemrzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
