@@ -1,6 +1,6 @@
 ### Hi, Welcome! You can see my name, on your left monitor.
 ---
-I'm a FrontEnd Developer.
+I'm a FrontEnd Developer. \n
 Sometime i like to create a design, vector design.
 I like to explore about editing photo or video, editing.
 All of thing's i do its so fun!
