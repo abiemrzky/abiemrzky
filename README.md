@@ -5,7 +5,7 @@ I'm now working at Easy Accounting System as FrontEnd Developer.
 I like working with HTML, CSS, & JavaScript. I like ReactJS too.
 
 Here my Social Media: 
-twitter : [![twitter]abiemrzky]
+twitter : [abiemrzky]([twitter])
 
 [twitter]: https://twitter.com/abiemrzky
 [instagram]: https://www.instagram.com/abie.mrzky/
