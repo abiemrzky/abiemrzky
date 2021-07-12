@@ -1,4 +1,4 @@
-### Hi, Welcome! You can see my name, on your left monitor.
+### Hi, Welcome! You can see my name, on your left.
 ---
 I'm a FrontEnd Developer. <br>
 Sometime i like to create a design, vector design.<br>
