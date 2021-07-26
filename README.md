@@ -8,7 +8,7 @@ All of thing's i do its so fun!<br>
 Want to know more about me ? Here my Social Media: 
 - twitter   : [abiemrzky](https://twitter.com/abiemrzky)
 - instagram : [abie.mrzky](https://www.instagram.com/abie.mrzky/)
-- linkedin  : [Abie Mei Rizky](https://www.instagram.com/abie.mrzky/)
+- linkedin  : [Abie Mei Rizky](https://www.linkedin.com/in/abie-mei-rizky-189572166)
 
 [twitter]: https://twitter.com/abiemrzky
 [instagram]: https://www.instagram.com/abie.mrzky/
